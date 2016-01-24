@@ -1,0 +1,11 @@
+*.o
+*.so
+main*
+mylog/*.o
+mylog/*.log
+mylog/main*
+mycfg/*.o
+mycfg/*.ini
+mycfg/main*
+mysock/*.o
+mysock/main*
